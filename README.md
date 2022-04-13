@@ -8,18 +8,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ Creating a library to test strings and lists.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 1
 
-Grace days remaining: < # >/5
+Grace days remaining: 3/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ Cannot determine if the rest of the code works after the fixStart portion.
 
 ## REFERENCES:
- < List any outside resources used >
+ geeksforgeeks.org
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ None
